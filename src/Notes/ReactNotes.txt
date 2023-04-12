@@ -1,0 +1,10 @@
+Form libraries:
+1. Formik
+2. React Hook Form
+3. useHooks.com
+
+Routing Data:
+1. React Router V6 => npm install react-router-dom
+
+Deployment:
+Netlifly
